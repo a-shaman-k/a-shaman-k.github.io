@@ -1,6 +1,7 @@
 ---
 title: "What does it mean to understand something?"
 date: 2025-12-17
+published: false
 ---
 
 

@@ -1,5 +1,22 @@
-remote_theme: pages-themes/architect@v0.2.0
-plugins:
-- jekyll-remote-theme 
-title: "Aashman's Blog"
-description: Making the world a little less fuzzy.
+title: "Aashman"
+description: "Notes on mathematics, learning, and the world."
+url: "https://a-shaman-k.github.io"
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+collections:
+  articles:
+    output: true
+    permalink: /writing/articles/:name/
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: articles
+    values:
+      layout: post

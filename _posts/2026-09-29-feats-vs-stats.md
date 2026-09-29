@@ -10,10 +10,10 @@ Let's start with the last one. For those not in the know, powerscaling is the ho
 
 There are, to my knowledge, two different schools of thought on how to sensibly make these comparisons. The first would compare characters on their abilities, which we'll call their "stats". Who has higher "battle IQ"? (tactical intuition and strategic situational awareness) Who has more sheer strength? What about general intelligence and creativity? Endurance under hardship? The idea is to tally up who wins on each front and then based on the ratio of tallies determine which character would win. 
 
-Potential outcomes are:
--they draw, so are evenly matched and fights could go either way depending on circumstance, preparation, and dumb luck
--one of them "mid diffs", so one character is clearly stronger, but still faces a moderate amount of difficulty
--one character "no diffs" the other, i.e. they destroy the other with no difficulty
+Potential outcomes are:\
+-they draw, so are evenly matched and fights could go either way depending on circumstance, preparation, and dumb luck\
+-one of them "mid diffs", so one character is clearly stronger, but still faces a moderate amount of difficulty\
+-one character "no diffs" the other, i.e. they destroy the other with no difficulty\
 -one character "neg diffs" the other. They are even more mismatched in ability than the no diff case, such that the stronger character faces negative difficulty
 
 This is similar to the way I, and a lot of people I know, tend to compare themselves with others. In my field - maths - I might see whether someone knows more esoteric theory, has stronger geometric intuition, stronger physics intuition, better discrete maths/combinatorics problem solving ability, better number theoretic intuition, more conscientiousness about rigour, faces more irritation than me at an unsolved problem in their mind. To my dismay, I've been meeting people who currently no diff me or even neg diff me along these lines.
